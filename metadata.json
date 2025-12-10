@@ -1,0 +1,7 @@
+{
+  "name": "The Apex Singularity",
+  "description": "The ultimate evolution of data intelligence—a sentient, proactive, and neuro-linked ecosystem powered by Gemini 2.5.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
